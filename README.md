@@ -6,8 +6,9 @@ https://www.nature.com/articles/s41598-024-61693-0#Abs1
 
 Analyzed multiple CNN algorithms:
   - DENSE121
-  - ResNet50
-  - ResNet152
+  - InceptionV3
+  - Xception
+  - VGG
   - EfficientNetB0
 
 Evaluated the results over following metrics:
